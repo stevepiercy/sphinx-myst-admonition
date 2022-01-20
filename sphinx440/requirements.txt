@@ -1,0 +1,5 @@
+# See https://github.com/sphinx-doc/sphinx/issues/10121
+Sphinx==4.4.0
+myst-parser
+sphinx-book-theme
+docutils==0.18.1
